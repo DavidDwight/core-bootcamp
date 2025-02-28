@@ -55,3 +55,4 @@ Here are some VS Code Extensions that could help you have a better development e
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
 
 ERC - 0x66bD4007A14700eaB2524329aF29af9fdFD3347a
+ERC721 - 0x25D328Def7075E98e2e6f9f0d0dc651e62B5c5d7
