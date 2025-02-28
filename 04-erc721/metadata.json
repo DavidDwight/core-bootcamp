@@ -1,0 +1,6 @@
+{
+    "name":"Name",
+    "description":"Description","symbol":"CCPT","image":"https://imgur.com/a/Sn2Tz2W","attributes":[{
+        "trait_type":"TYPE","value":"VALUE"
+    }]
+}
